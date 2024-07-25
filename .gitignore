@@ -1,0 +1,36 @@
+# Laravel & Composer
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/storage/debugbar
+/.env
+/.env.*
+/Homestead.yaml
+/README.md
+/.vagrant
+/.idea
+/.DS_Store
+
+# Laravel specific
+/.phpunit.result.cache
+/.php_cs.cache
+/.php_cs.dist
+/.php_cs
+/.phpstorm.meta.php
+/.phpstorm.meta.php
+/.phpunit
+/.phpunit.result.cache
+
+# IDEs and editors
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+.idea/
+*.swp
+*.swo
+*.swo~
+
+# OS-specific
+.DS_Store
+Thumbs.db
