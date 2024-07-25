@@ -131,4 +131,7 @@ To facilitate testing the API endpoints, I have created a folder named request-h
 5. Replace the authentication token with your actual token obtained from the login endpoint response.
 6. Execute the request by clicking the "Send Request" button above the request in the editor.
 
+![image](https://github.com/user-attachments/assets/51bec9bd-895e-44e3-adb3-e3e44ad47603)
+
 By following these steps, you can test all API endpoints using the REST Client extension in VS Code.
+
