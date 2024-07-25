@@ -1,0 +1,14 @@
+### 
+# Replace the value of `Authorization` header with your token.
+# Example:
+# Authorization: Bearer your_actual_token_here
+###
+POST http://localhost:8000/api/expenses
+Content-Type: application/json
+Authorization: Bearer 4|bTUrHTBLhQ8JQ3sGKAQUsOIafEqkPE6uIXQX7iR0352c7853
+
+{
+  "description": "Compra de Material de Escritório",
+  "date": "2024-07-23",
+  "value": 100.50
+}
