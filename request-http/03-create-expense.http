@@ -3,9 +3,9 @@
 # Example:
 # Authorization: Bearer your_actual_token_here
 ###
-POST http://localhost:8000/api/expenses
+POST http://localhost:9000/api/expenses
 Content-Type: application/json
-Authorization: Bearer 4|bTUrHTBLhQ8JQ3sGKAQUsOIafEqkPE6uIXQX7iR0352c7853
+Authorization: Bearer 1|O0y5pbK4sTml9ddA59dOXMLrtPVYQKsnDS1dNycI3adb57fb
 
 {
   "description": "Compra de Material de Escritório",

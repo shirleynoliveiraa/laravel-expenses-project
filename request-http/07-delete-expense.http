@@ -3,5 +3,5 @@
 # Example:
 # Authorization: Bearer your_actual_token_here
 ###
-DELETE http://localhost:8000/api/expenses/2
+DELETE http://localhost:9000/api/expenses/2
 Authorization: Bearer 4|bTUrHTBLhQ8JQ3sGKAQUsOIafEqkPE6uIXQX7iR0352c7853

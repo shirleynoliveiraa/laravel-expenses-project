@@ -3,7 +3,7 @@
 # Example:
 # Authorization: Bearer your_actual_token_here
 ###
-PUT http://localhost:8000/api/expenses/2
+PUT http://localhost:9000/api/expenses/2
 Content-Type: application/json
 Authorization: Bearer 4|bTUrHTBLhQ8JQ3sGKAQUsOIafEqkPE6uIXQX7iR0352c7853
 

@@ -5,7 +5,6 @@
 /storage/*.key
 /storage/debugbar
 /.env
-/.env.*
 /Homestead.yaml
 /README.md
 /.vagrant
